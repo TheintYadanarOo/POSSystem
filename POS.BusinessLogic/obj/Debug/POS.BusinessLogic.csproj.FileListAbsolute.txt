@@ -1,0 +1,5 @@
+C:\C# Traning\POS\POS.BusinessLogic\bin\Debug\POS.BusinessLogic.dll
+C:\C# Traning\POS\POS.BusinessLogic\bin\Debug\POS.BusinessLogic.pdb
+C:\C# Traning\POS\POS.BusinessLogic\obj\Debug\POS.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\C# Traning\POS\POS.BusinessLogic\obj\Debug\POS.BusinessLogic.dll
+C:\C# Traning\POS\POS.BusinessLogic\obj\Debug\POS.BusinessLogic.pdb

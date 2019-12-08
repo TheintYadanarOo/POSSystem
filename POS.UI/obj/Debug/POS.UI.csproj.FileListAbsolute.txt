@@ -1,0 +1,13 @@
+C:\C# Traning\POS\POS.UI\bin\Debug\POS.UI.exe.config
+C:\C# Traning\POS\POS.UI\obj\Debug\POS.UI.csprojResolveAssemblyReference.cache
+C:\C# Traning\POS\POS.UI\obj\Debug\POS.UI.MasterSetup.UM.resources
+C:\C# Traning\POS\POS.UI\obj\Debug\POS.UI.Properties.Resources.resources
+C:\C# Traning\POS\POS.UI\obj\Debug\POS.UI.csproj.GenerateResource.Cache
+C:\C# Traning\POS\POS.UI\bin\Debug\POS.UI.exe
+C:\C# Traning\POS\POS.UI\bin\Debug\POS.UI.pdb
+C:\C# Traning\POS\POS.UI\obj\Debug\POS.UI.exe
+C:\C# Traning\POS\POS.UI\obj\Debug\POS.UI.pdb
+C:\C# Traning\POS\POS.UI\obj\Debug\POS.UI.MasterSetup.AppSetting.resources
+C:\C# Traning\POS\POS.UI\obj\Debug\POS.UI.MainUI.POSMainUI.resources
+C:\C# Traning\POS\POS.UI\bin\Debug\POS.BusinessLogic.dll
+C:\C# Traning\POS\POS.UI\bin\Debug\POS.BusinessLogic.pdb

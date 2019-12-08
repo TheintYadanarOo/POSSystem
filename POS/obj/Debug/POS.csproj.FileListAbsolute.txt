@@ -1,0 +1,1 @@
+C:\C# Traning\POS\POS\bin\Debug\POS.exe.config
